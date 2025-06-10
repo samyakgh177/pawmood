@@ -121,7 +121,7 @@ export default function Dashboard() {
       </div>
       <div className='text-center space-y-2'>
         <h4 className={'text-4xl sm:text-5xl md:text-6xl ' + fugaz.className}>
-          How's your <span className='textGradient'>pet</span> feeling today?
+          How&apos;s your <span className='textGradient'>pet</span> feeling today?
         </h4>
         <p className='text-gray-600'>Track their daily mood and well-being!</p>
       </div>

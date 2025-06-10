@@ -19,11 +19,11 @@ export default function Hero() {
                     className="animate-bounce"
                 />
                 <h1 className={'text-5xl sm:text-6xl md:text-7xl text-center ' + fugaz.className}>
-                    <span className='textGradient'>PawMood</span> tracks your pet's <span className='textGradient'>daily</span> wellbeing!
+                    <span className='textGradient'>PawMood</span> tracks your pet&apos;s <span className='textGradient'>daily</span> wellbeing!
                 </h1>
             </div>
             <p className='text-lg sm:text-xl md:text-2xl text-center w-full mx-auto max-w-[700px]'>
-                Because every tail wag, purr, and happy bark matters! Monitor your furry friend's mood and health
+                Because every tail wag, purr, and happy bark matters! Monitor your furry friend&apos;s mood and health
                 <span className='font-semibold'> every single day</span> 🐾
             </p>
             <CallToAction />
